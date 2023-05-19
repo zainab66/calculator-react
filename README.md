@@ -27,4 +27,4 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-!["Screenshot of calculator"](https://github.com/zainab66/calculator-react/blob/master/docs/Screenshot%20of%20Calculator.png?raw=true)
+!["Screenshot of calculator"](https://github.com/zainab66/calculator-react/blob/main/docs/Screenshot%20of%20Calculator.png)
